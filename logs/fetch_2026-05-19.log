@@ -1,0 +1,6 @@
+Tue May 19 05:36:00 EEST 2026| SCRIPT STARTED
+Tue May 19 05:36:01 EEST 2026 | ERROR | HTTP 403 | {"message":"The resource you are looking for is restricted and apparently not within your permissions. Please check your subscription.","errorCode":403}
+Tue May 19 05:37:31 EEST 2026| SCRIPT STARTED
+Tue May 19 05:37:33 EEST 2026 | ERROR | HTTP 403 | {"message":"The resource you are looking for is restricted and apparently not within your permissions. Please check your subscription.","errorCode":403}
+Tue May 19 05:44:24 EEST 2026| SCRIPT STARTED
+Tue May 19 05:44:26 EEST 2026 | SUCCESS |  HTTP 200  | SAVED TO data/raw/raw_footballflow_2026-05-19.json
